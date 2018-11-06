@@ -25,6 +25,7 @@ $('.loader').hide();
                               console.log(showValue.story);
                               $(".mine").append("<li> Post:"+showValue.story + "</li><br>"+"posted on:"+showValue.created_time+"\n");
                                                             });
+                                   console.log("this is testing");
 
                                                                                                                                      
                                                                             
